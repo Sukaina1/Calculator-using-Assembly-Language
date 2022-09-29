@@ -1,0 +1,2 @@
+# Calculator-using-Assembly-Language
+The purpose of this project is to develop a calculator as it supports correct calculations. It is clear that a calculator should relieve the user of the need to do mental operations.  Firstly select the operation you want to perform. Next enter the operands using the keyboard. Result will be computed and will be displayed on the screen. The user will be asked whether they want to continue, if yes, the loop will run again. Calculator will restart. Then choose the operator and enter the operands.
